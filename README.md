@@ -2,9 +2,6 @@
 A machine learning project that predicts house prices using Linear Regression, including data preprocessing, exploratory analysis, and model evaluation in Jupyter Notebook.
 # 🏡 House Price Prediction using Linear Regression
 
-![House Price Distribution](Images/Distplot.png)
-
-
 This project predicts house prices based on historical housing data using **Linear Regression**.  
 It includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation — all inside a Jupyter Notebook.
 
